@@ -48,9 +48,9 @@ picgo set uploader
 
 ```
 repo : 用户名/仓库名
-brach : main/master
+brach : 分支名(一般是main或master)
 token :
-path : image_Linux/
+path : 放图片的文件夹名/
 customUrl : https://cdn.jsdelivr.net/gh/用户名/仓库名
 origin ：github
 ```
