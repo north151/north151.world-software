@@ -1,16 +1,41 @@
-#  Linux Typora PicGO 配置
+# Typora PicGO 配置
 <br>
 
-#### 1.选择 PicGo-Core(command line)
-<br>
-
-#### 2.点击  "下载或更新"
+```shell
+偏好设置->图象:  
+    选择: 插入图片时->上传图片
+    选中: 1.对本地位置的图片应用上述操作
+          2.对网络位置的图片应用上述操作
+```    
+<br><br><br>   
+      
+## windows
 ```
-Typora PicGo-Core(command line)    [注意：github  默认使用 githubPlus插件]
+上传服务->PicGo(app)
+路径    ->直接选中PicGo.exe
 ```
-<br>
+<br><br><br>
 
-#### 3.配置PicGo
+
+
+
+## Linux
+```
+选择: PicGo-Core(command line)
+点击  "下载或更新"
+```
+
+```
+[注意：github  默认使用 githubPlus插件]
+```
+<br><br>
+
+
+
+
+
+
+#### 配置PicGo
 
 ```
 cd /home/用户名/.config/Typora/picgo/linux
