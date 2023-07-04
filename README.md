@@ -4,7 +4,7 @@
 
 ```python
 Database
-	mysql-5.6.*
+	Mysql-5.6.*
 	Navicat
 	
 Distribute
@@ -13,7 +13,7 @@ Distribute
 	
 Editor
 	Vim
-	VS code
+	VScode
 	Typora
 	Intellij IDEA
 	WebStorm
@@ -45,12 +45,12 @@ IDE
 ## over.net software
 
 ```python
-connect
+Connect
 	Clash
 	V2rayN-win
 	Qv2ray-linux
     
-appliaction
+Appliaction
 	Telegarm	
 	Discord
 	
@@ -134,9 +134,9 @@ Uninstall
 	
 DiskManager
 	DiskGenius
-	rufus
+	Rufus
 	Nextcloud
-	rclone
+	Rclone
 	clouddriver
 	AS SSD
 	CrystalDiskInfo
