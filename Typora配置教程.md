@@ -71,7 +71,7 @@ picgo use uploader
       "repo": "用户名/仓库名",
       "branch": "main",
       "token": "",
-      "path": "image_Linux/",
+      "path": "放图片的文件夹名/",
       "customUrl": "https://cdn.jsdelivr.net/gh/用户名/仓库名"
     },
     "uploader": "github",
@@ -82,3 +82,10 @@ picgo use uploader
   }
 }
 ```
+
+**Github Token获取**
+```
+个人头像 -> Settings -> Developer settings -> Personal access tokens -> 
+Generate a personal access token -> 设置名字和权限 -> 复制Token
+```
+
